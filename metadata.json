@@ -1,0 +1,5 @@
+{
+  "name": "HugZa",
+  "description": "An AI-powered photo editor that magically creates an image of two people hugging. Upload a photo of each person to generate a heartwarming moment.",
+  "requestFramePermissions": []
+}
